@@ -4,7 +4,7 @@ Javascript object copy using deep copy
 
 ## Usage
 
-```sh
+```js
 var deepClone = require('./js-clone/index.js');
 
 var object = {
