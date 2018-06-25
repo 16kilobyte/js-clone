@@ -1,0 +1,28 @@
+{
+  "name": "js-object-clone",
+  "version": "1.0.0",
+  "description": "Clone an object using deep clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/16kilobyte/js-clone.git"
+  },
+  "keywords": [
+    "clone",
+    "deep",
+    "copy",
+    "object"
+  ],
+  "author": "Kator James <kator95@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/16kilobyte/js-clone/issues"
+  },
+  "homepage": "https://github.com/16kilobyte/js-clone#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
